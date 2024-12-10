@@ -1,2 +1,1 @@
-# terraformrepo1
-My repo by terraform
+I am creating aws resouces using terraform built in modules here.
